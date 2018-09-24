@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4599903b-ee21-4aa4-bbd6-6812a1be48a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/reliance.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/rmgx.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="4599903b-ee21-4aa4-bbd6-6812a1be48a0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="646" column="45" lean-forward="true" selection-start-line="646" selection-start-column="45" selection-end-line="646" selection-end-column="45" />
+            <state relative-caret-position="219">
+              <caret line="78" column="58" lean-forward="false" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -80,12 +75,10 @@
       <find>download</find>
       <find>about me</find>
       <find>FUKK</find>
-      <find>href=&quot;&quot;</find>
-      <find>javascript an</find>
+      <find>deveve</find>
     </findStrings>
     <replaceStrings>
       <replace>PHP</replace>
-      <replace>&amp;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -128,6 +121,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,17 +130,10 @@
               <item name="cvportfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="cvportfolio" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cvportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cvportfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,12 +177,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537729461402</updated>
       <workItem from="1537729467855" duration="16288000" />
-      <workItem from="1537806467959" duration="826000" />
+      <workItem from="1537745995196" duration="112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17114000" />
+    <option name="totallyTimeSpent" value="16400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="87" y="44" width="1303" height="780" extended-state="6" />
@@ -237,6 +225,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01-cv-portfolio/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2988">
+          <caret line="166" column="97" lean-forward="true" selection-start-line="166" selection-start-column="97" selection-end-line="166" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -245,14 +241,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-cv-portfolio/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2988">
-          <caret line="166" column="97" lean-forward="true" selection-start-line="166" selection-start-column="97" selection-end-line="166" selection-end-column="97" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -306,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="646" column="45" lean-forward="true" selection-start-line="646" selection-start-column="45" selection-end-line="646" selection-end-column="45" />
+        <state relative-caret-position="219">
+          <caret line="78" column="58" lean-forward="false" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
           <folding />
         </state>
       </provider>
